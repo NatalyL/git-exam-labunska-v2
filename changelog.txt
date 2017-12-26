@@ -3,8 +3,8 @@ This file shows the changes in the system versions.
 
 1.0.1 (26.12.2017)
 ====================================
-- Исправили ошибку
-- Добавили функцию phpinfo();
+- Fixed bug
+- Added function phpinfo();
 
 project-name.com 1.0.0 (26/12/2017)
 ====================================
