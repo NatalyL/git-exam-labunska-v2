@@ -1,6 +1,11 @@
-п»їThis file shows the changes in the system versions.
+This file shows the changes in the system versions.
 
 
-project-name.com 1.0.0 (07/09/2017)
+1.0.1 (26.12.2017)
+====================================
+- Исправили ошибку
+- Добавили функцию phpinfo();
+
+project-name.com 1.0.0 (26/12/2017)
 ====================================
 - init project commit
