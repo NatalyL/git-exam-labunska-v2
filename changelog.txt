@@ -1,6 +1,12 @@
 This file shows the changes in the system versions.
 
 
+1.1.1 (26.12.2017)
+====================================
+- Added new feature
+- Added file test.php
+
+
 1.0.1 (26.12.2017)
 ====================================
 - Fixed bug
